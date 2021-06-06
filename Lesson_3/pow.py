@@ -1,0 +1,6 @@
+print(pow(5,5))
+print(pow(5,- 3))
+print(pow( - 5, 3))
+print(pow(5,3.5))
+print(pow(5.,3))
+print(pow(5,3.))

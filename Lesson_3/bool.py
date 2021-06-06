@@ -1,0 +1,6 @@
+x = bool(1)
+y = bool(0)
+z = bool("qwe")
+print(z)
+print(y)
+print(x)
